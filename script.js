@@ -20,10 +20,9 @@ function show () {
   document.getElementById('text').style.display = 'block'
 }
 
-
 function background () {
   document.body.style.backgroundColor = 'lightblue'
-} 
+}
 
 // This line hides a message
 alert('The computer displays an alert')
